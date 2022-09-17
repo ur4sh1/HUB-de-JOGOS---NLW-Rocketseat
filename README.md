@@ -9,10 +9,13 @@
 -Phosphor-react
 
 #radix
-npm install @radix-ui/react-dialog
-npm install @radix-ui/react-checkbox
-npm install @radix-ui/react-select
-npm install @radix-ui/react-toggle-group
+<dl>
+  <dt>npm install @radix-ui/react-dialog
+  <dt>npm install @radix-ui/react-checkbox
+  <dt>npm install @radix-ui/react-select
+  <dt>npm install @radix-ui/react-toggle-group
+ </dl>
+
 
 #axios
 npm i axios
