@@ -1,7 +1,7 @@
 #HUB de JOGOS
 
 
-<img align="center" title="Printscreen" height="480" width="720" src="https://github.com/ur4sh1/HUB-de-JOGOS---NLW-Rocketseat/blob/main/public/printscreen.png" />
+<img align="center" title="Printscreen" height="480" width="880" src="https://github.com/ur4sh1/HUB-de-JOGOS---NLW-Rocketseat/blob/main/public/printscreen.png" />
 Vite
 
 tailwindcss
