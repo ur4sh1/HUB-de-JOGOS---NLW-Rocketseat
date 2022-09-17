@@ -7,15 +7,15 @@
 -<a href="https://vitejs.dev">VITE</a><br>
 -<a href="https://tailwindcss.com">Tailwind css</a><br>
 -<a href="https://phosphoricons.com">Phosphor-react</a><br>
-
+<br>
 <code>#</code><a href="https://www.radix-ui.com">Radix</a>
   <p><i>npm install @radix-ui/react-dialog</i></p>
   <p><i>npm install @radix-ui/react-checkbox</i></p>
   <p><i>npm install @radix-ui/react-select</i></p>
   <p><i>npm install @radix-ui/react-toggle-group</i></p>
 
-<code>#</code><a href="https://www.npmjs.com/package/axios">axios</a>
-<i>npm i axios</i>
+<code>#</code><a href="https://www.npmjs.com/package/axios">axios</a><br>
+<i>npm i axios</i><br>
 
 <code>#</code>melhorias pendentes
 <ul>
