@@ -18,7 +18,7 @@ Projeto eSports-NLW React / React-Native
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 ```
-git@github.com:ur4sh1/HUB-de-JOGOS---NLW-Rocketseat.git
+git clone git@github.com:ur4sh1/HUB-de-JOGOS---NLW-Rocketseat.git
 ```
 Instalar dependências
 ```
