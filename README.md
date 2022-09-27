@@ -3,7 +3,7 @@
 <h1 align="center">:file_cabinet: HUB de JOGOS</h1>
 
 ## :memo: Descrição
-Projeto eSports-NLW React / React-Native
+Projeto eSports-NLW React
 
 ## :books: Funcionalidades
 * Vizualização e criação de anuncios pra encontrar jogadores
